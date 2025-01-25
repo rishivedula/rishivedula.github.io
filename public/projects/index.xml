@@ -6,7 +6,14 @@
     <description>Recent content in Projects on Rishi Vedula Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rishivedula.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generative Adversarial Networks for Image Synthesis</title>
+      <link>https://rishivedula.github.io/projects/gans-thesis/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rishivedula.github.io/projects/gans-thesis/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;&#xA;&lt;p&gt;Developed a novel GAN architecture for high-quality image synthesis as part of my Master’s thesis in Robotics.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-achievements&#34;&gt;Key Achievements&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Improved model convergence by &lt;strong&gt;35%&lt;/strong&gt; using advanced optimization techniques.&lt;/li&gt;&#xA;&lt;li&gt;Generated photorealistic images with an FID score of &lt;strong&gt;12.5&lt;/strong&gt;, outperforming baseline models.&lt;/li&gt;&#xA;&lt;li&gt;Published findings at [Conference Name] (link).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python, TensorFlow, PyTorch&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>

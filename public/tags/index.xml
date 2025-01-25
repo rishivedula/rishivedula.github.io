@@ -6,6 +6,28 @@
     <description>Recent content in Tags on Rishi Vedula Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rishivedula.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning</title>
+      <link>https://rishivedula.github.io/tags/deep-learning/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rishivedula.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GANs</title>
+      <link>https://rishivedula.github.io/tags/gans/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rishivedula.github.io/tags/gans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image Processing</title>
+      <link>https://rishivedula.github.io/tags/image-processing/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rishivedula.github.io/tags/image-processing/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
