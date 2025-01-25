@@ -1,0 +1,5 @@
+baseURL = "https://rishivedula.github.io/"
+languageCode = "en-us"
+title = "Rishi Vedula Portfolio"
+theme = "ananke"
+
